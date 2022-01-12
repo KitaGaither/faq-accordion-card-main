@@ -1,3 +1,11 @@
-/*body {
+body {
     background-image: linear-gradient(180deg, #ab92bf, #6565e7);
-}*/
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+card {
+    margin-left: 100px;
+}
