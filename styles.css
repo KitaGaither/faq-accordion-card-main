@@ -19,14 +19,16 @@ body {
 
 #accordionFlushExample {
     margin-left: auto;
+    height: 300px;
+    border: none;
 }
 
 .lady_img {
     margin-left: -80px;
-    margin-top: 25px;
+    margin-top: 20px;
 }
 
 .orange_box {
-    margin-left: -360px;
-    margin-top: 105px;
+    margin-left: -410px;
+    margin-top: 110px;
 }
