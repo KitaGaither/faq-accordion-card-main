@@ -1,5 +1,5 @@
 body {
-    background-image: linear-gradient(180deg, #ab92bf, #6565e7);
+    background-image: linear-gradient(180deg, #af68ea, #6565e7);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -7,9 +7,26 @@ body {
     font-family: Kumbh sans;
     font-weight: 400, 700;
     font-size: 12px;
+    margin-bottom: 0;
 }
 
 .card {
     margin: auto;
     margin-top: 300px;
+    
+
+}
+
+#accordionFlushExample {
+    margin-left: auto;
+}
+
+.lady_img {
+    margin-left: -80px;
+    margin-top: 25px;
+}
+
+.orange_box {
+    margin-left: -360px;
+    margin-top: 105px;
 }

@@ -2,6 +2,7 @@
 
 ## Layout
 
+<!- This part was done with the meta viewport tag in the head of the document.->
 The designs were created to the following widths:
 
 - Mobile: 375px
@@ -37,7 +38,7 @@ Background gradient:
 ## Typography
 
 ### Body Copy
-
+<!-- The font size, font-family and font-weights were all done in the CSS document -->
 - Font size: 12px
 
 ### Font
