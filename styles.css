@@ -20,7 +20,7 @@ body {
 #accordionFlushExample {
     margin-left: auto;
     height: 300px;
-    border: none;
+    border: 0;
 }
 
 .lady_img {
@@ -31,4 +31,9 @@ body {
 .orange_box {
     margin-left: -410px;
     margin-top: 110px;
+}
+
+.bg-pattern {
+    height: 300px;
+    width: 200px;
 }
